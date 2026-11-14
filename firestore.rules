@@ -1,0 +1,44 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // IMPORTANT: Replace this placeholder with the owner's Firebase Auth UID.
+    function isAdmin() {
+      return request.auth != null
+        && request.auth.uid == "REPLACE_WITH_ADMIN_UID";
+    }
+
+    match /orders/{orderId} {
+      // Customers may submit a new order; only the signed-in admin can read/manage it.
+      allow create: if request.resource.data.keys().hasAll([
+          'id', 'name', 'phone', 'address', 'area', 'lines',
+          'subtotal', 'fee', 'total', 'date'
+        ])
+        && request.resource.data.name is string
+        && request.resource.data.name.size() > 0
+        && request.resource.data.name.size() <= 100
+        && request.resource.data.phone is string
+        && request.resource.data.phone.size() <= 30
+        && request.resource.data.address is string
+        && request.resource.data.address.size() <= 500
+        && request.resource.data.area is string
+        && request.resource.data.lines is list
+        && request.resource.data.lines.size() > 0
+        && request.resource.data.lines.size() <= 100
+        && request.resource.data.subtotal is number
+        && request.resource.data.fee is number
+        && request.resource.data.total is number
+        && request.resource.data.total >= 0;
+      allow read, update, delete: if isAdmin();
+    }
+
+    match /products/{productId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    match /settings/{settingsId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+  }
+}
