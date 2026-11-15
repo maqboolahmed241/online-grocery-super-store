@@ -37,7 +37,7 @@ var catalogDefaults=[[1,"🛒","آٹا 10 کلو","آٹا 10 کلو","آٹا 10 
 var savedProducts=JSON.parse(localStorage.getItem("gs-products")||"null");
 var catalogVersion=localStorage.getItem("gs-catalog-version");
 var products;
-if(savedProducts && catalogVersion==="4"){
+if(savedProducts && catalogVersion==="5"){
  products=savedProducts.slice();
 }else{
  products=catalogDefaults.map(function(base){
@@ -48,7 +48,7 @@ if(savedProducts && catalogVersion==="4"){
   return p;
  });
  localStorage.setItem("gs-products",JSON.stringify(products));
- localStorage.setItem("gs-catalog-version","4");
+ localStorage.setItem("gs-catalog-version","5");
 }
 products.forEach(p=>{if(p.length<8)p[7]=0});
 var productPhotoMap={};
