@@ -560,6 +560,62 @@
           "image_query": "Pakistan branded potato chips packet front packaging product photo"
         }
       ]
+    },
+    {
+      "batch": 11,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 101,
+          "name": "ٹافیاں پیک",
+          "image_query": "Pakistan assorted wrapped toffees retail packet product photo"
+        },
+        {
+          "id": 102,
+          "name": "چیونگم پیک",
+          "image_query": "Pakistan branded chewing gum retail blister or packet front product photo"
+        },
+        {
+          "id": 103,
+          "name": "منٹ کینڈی پیک",
+          "image_query": "Pakistan branded mint candy packet front packaging product photo"
+        },
+        {
+          "id": 104,
+          "name": "چاکلیٹ بار",
+          "image_query": "Pakistan branded chocolate bar wrapper front product photo"
+        },
+        {
+          "id": 105,
+          "name": "چاکلیٹ ویفر پیک",
+          "image_query": "Pakistan branded chocolate wafer biscuit packet front product photo"
+        },
+        {
+          "id": 106,
+          "name": "لالی پاپ پیک",
+          "image_query": "Pakistan assorted lollipop candy retail packet product photo"
+        },
+        {
+          "id": 107,
+          "name": "جیلی کینڈی پیک",
+          "image_query": "Pakistan branded fruit jelly candy packet front product photo"
+        },
+        {
+          "id": 108,
+          "name": "مارش میلو پیک",
+          "image_query": "Pakistan marshmallow candy retail packet front product photo"
+        },
+        {
+          "id": 109,
+          "name": "چیونگم بالز پیک",
+          "image_query": "Pakistan bubble gum balls candy retail packet product photo"
+        },
+        {
+          "id": 110,
+          "name": "چاکلیٹ کوائن پیک",
+          "image_query": "foil chocolate coin candy retail packet product photo Pakistan"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
