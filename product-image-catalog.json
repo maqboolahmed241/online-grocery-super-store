@@ -672,6 +672,63 @@
           "image_query": "dried apricots 250g retail pouch front product photo Pakistan"
         }
       ]
+    },
+    {
+      "batch": 13,
+      "category": "چاول کی اقسام",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 121,
+          "name": "سپر کرنل باسمتی چاول 1 کلو",
+          "image_query": "Pakistan Super Kernel basmati rice 1kg retail bag front packaging product photo"
+        },
+        {
+          "id": 122,
+          "name": "1121 باسمتی سٹیم چاول 1 کلو",
+          "image_query": "Pakistan 1121 steamed basmati rice 1kg retail bag front packaging product photo"
+        },
+        {
+          "id": 123,
+          "name": "1121 باسمتی سیلا چاول 1 کلو",
+          "image_query": "Pakistan 1121 sela basmati rice 1kg retail bag front packaging product photo"
+        },
+        {
+          "id": 124,
+          "name": "1121 باسمتی وائٹ چاول 1 کلو",
+          "image_query": "Pakistan 1121 white basmati rice 1kg retail bag front packaging product photo"
+        },
+        {
+          "id": 125,
+          "name": "کائنات چاول 1 کلو",
+          "image_query": "Pakistan Kainat rice 1kg retail bag front packaging product photo"
+        },
+        {
+          "id": 126,
+          "name": "IRRI-6 چاول 1 کلو",
+          "image_query": "Pakistan IRRI 6 rice 1kg retail bag front packaging product photo"
+        },
+        {
+          "id": 127,
+          "name": "IRRI-9 چاول 1 کلو",
+          "image_query": "Pakistan IRRI 9 rice 1kg retail bag front packaging product photo"
+        },
+        {
+          "id": 128,
+          "name": "ٹوٹا باسمتی چاول 1 کلو",
+          "image_query": "Pakistan broken basmati rice tukra 1kg retail bag product photo"
+        },
+        {
+          "id": 129,
+          "name": "براؤن رائس 1 کلو",
+          "image_query": "Pakistan brown rice 1kg retail pouch front packaging product photo"
+        },
+        {
+          "id": 130,
+          "name": "ابلے ہوئے سیلا چاول 1 کلو",
+          "image_query": "Pakistan parboiled sela rice 1kg retail bag front packaging product photo"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
