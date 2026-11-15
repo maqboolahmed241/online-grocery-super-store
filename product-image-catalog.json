@@ -1078,6 +1078,64 @@
           "image_query": "whole mustard seeds rai dana loose in plain white ceramic bowl, no packaging"
         }
       ]
+    },
+    {
+      "batch": 20,
+      "category": "کھلے مصالحے — حصہ سوم",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "note": "Only actual loose spices and dried ingredients in plain bowls or plates; no packets, packaging, brand marks, or labels.",
+      "products": [
+        {
+          "id": 191,
+          "name": "کلونجی",
+          "image_query": "nigella seeds kalonji loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 192,
+          "name": "تیز پات",
+          "image_query": "dried bay leaves tez patta loose on plain white plate, no packaging"
+        },
+        {
+          "id": 193,
+          "name": "میتھی پاؤڈر",
+          "image_query": "ground fenugreek powder loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 194,
+          "name": "سونٹھ خشک ادرک",
+          "image_query": "dried ginger powder sonth loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 195,
+          "name": "جائفل ثابت",
+          "image_query": "whole nutmeg spice loose on plain white plate, no packaging"
+        },
+        {
+          "id": 196,
+          "name": "جاوتری",
+          "image_query": "dried mace spice blades javitri loose on plain white plate, no packaging"
+        },
+        {
+          "id": 197,
+          "name": "املی خشک",
+          "image_query": "dried tamarind pulp pieces loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 198,
+          "name": "خشک لیموں",
+          "image_query": "dried black lime loomi whole dried lemons loose on plain white plate, no packaging"
+        },
+        {
+          "id": 199,
+          "name": "انار دانہ خشک",
+          "image_query": "dried pomegranate seeds anardana loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 200,
+          "name": "امچور پاؤڈر",
+          "image_query": "dried mango powder amchur loose in plain white ceramic bowl, no packaging"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
