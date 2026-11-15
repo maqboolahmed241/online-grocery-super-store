@@ -504,6 +504,62 @@
           "image_query": "Pakistan mineral water 500ml branded bottle front product photo"
         }
       ]
+    },
+    {
+      "batch": 10,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 91,
+          "name": "ٹی بسکٹ پیک",
+          "image_query": "Pakistan branded tea biscuits packet front packaging product photo"
+        },
+        {
+          "id": 92,
+          "name": "گلوکوز بسکٹ پیک",
+          "image_query": "Pakistan branded glucose biscuits packet front packaging product photo"
+        },
+        {
+          "id": 93,
+          "name": "کریم بسکٹ پیک",
+          "image_query": "Pakistan branded cream sandwich biscuits packet front packaging product photo"
+        },
+        {
+          "id": 94,
+          "name": "چاکلیٹ بسکٹ پیک",
+          "image_query": "Pakistan branded chocolate biscuits packet front packaging product photo"
+        },
+        {
+          "id": 95,
+          "name": "نمکین بسکٹ پیک",
+          "image_query": "Pakistan branded salted crackers biscuits packet front packaging product photo"
+        },
+        {
+          "id": 96,
+          "name": "رسک پیک",
+          "image_query": "Pakistan branded bakery rusk packet front packaging product photo"
+        },
+        {
+          "id": 97,
+          "name": "کیک رسک پیک",
+          "image_query": "Pakistan branded cake rusk packet front packaging product photo"
+        },
+        {
+          "id": 98,
+          "name": "سادہ کیک پیک",
+          "image_query": "Pakistan branded plain tea cake packet front packaging product photo"
+        },
+        {
+          "id": 99,
+          "name": "نمکو پیک",
+          "image_query": "Pakistan branded nimco snack packet front packaging product photo"
+        },
+        {
+          "id": 100,
+          "name": "آلو چپس پیک",
+          "image_query": "Pakistan branded potato chips packet front packaging product photo"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
