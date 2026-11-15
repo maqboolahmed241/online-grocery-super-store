@@ -730,6 +730,64 @@
         }
       ],
       "note": "Display rice variety name with only a photo of the loose uncooked rice grains in a plain bowl. Never show retail packaging, bags, branded packets, or labels."
+    },
+    {
+      "batch": 14,
+      "category": "دالوں کی اقسام",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "note": "Show only loose lentils in plain bowls. No retail packaging, bags, labels, or brand marks.",
+      "products": [
+        {
+          "id": 131,
+          "name": "چنے کی دال",
+          "image_query": "uncooked yellow split chana dal loose lentils in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 132,
+          "name": "دال مسور ثابت",
+          "image_query": "uncooked whole brown masoor lentils loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 133,
+          "name": "دال مسور دھلی",
+          "image_query": "uncooked red split masoor lentils loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 134,
+          "name": "دال مونگ ثابت",
+          "image_query": "uncooked whole green mung beans loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 135,
+          "name": "دال مونگ دھلی",
+          "image_query": "uncooked yellow split moong dal loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 136,
+          "name": "دال ماش ثابت",
+          "image_query": "uncooked whole black urad mash beans loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 137,
+          "name": "دال ماش دھلی",
+          "image_query": "uncooked white split urad mash dal loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 138,
+          "name": "دال ارہر تور",
+          "image_query": "uncooked yellow split toor arhar dal loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 139,
+          "name": "مکس دال",
+          "image_query": "uncooked mixed lentils several varieties loose together in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 140,
+          "name": "دال چنا چھلکا اترا",
+          "image_query": "uncooked split skinless desi chickpeas chana dal loose in plain white ceramic bowl, no packaging"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
