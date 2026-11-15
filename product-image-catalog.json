@@ -448,6 +448,62 @@
           "image_query": "Pakistan branded dairy cream 200ml carton front packaging product photo"
         }
       ]
+    },
+    {
+      "batch": 9,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 81,
+          "name": "آم کا جوس 1 لیٹر",
+          "image_query": "Pakistan mango juice one litre branded carton front packaging product photo"
+        },
+        {
+          "id": 82,
+          "name": "مالٹے کا جوس 1 لیٹر",
+          "image_query": "Pakistan orange juice one litre branded carton front packaging product photo"
+        },
+        {
+          "id": 83,
+          "name": "مکس فروٹ جوس 1 لیٹر",
+          "image_query": "Pakistan mixed fruit juice one litre branded carton front packaging product photo"
+        },
+        {
+          "id": 84,
+          "name": "سیب کا جوس 1 لیٹر",
+          "image_query": "Pakistan apple juice one litre branded carton front packaging product photo"
+        },
+        {
+          "id": 85,
+          "name": "روح افزا شربت 800 ملی لیٹر",
+          "image_query": "Rooh Afza Pakistan syrup bottle original front label packaging product photo"
+        },
+        {
+          "id": 86,
+          "name": "جام شیریں شربت 800 ملی لیٹر",
+          "image_query": "Jam e Shirin Pakistan syrup bottle original front label packaging product photo"
+        },
+        {
+          "id": 87,
+          "name": "کولا ڈرنک 1.5 لیٹر",
+          "image_query": "Pakistan cola soft drink 1.5 litre branded PET bottle front product photo"
+        },
+        {
+          "id": 88,
+          "name": "لیموں لائم ڈرنک 1.5 لیٹر",
+          "image_query": "Pakistan lemon lime soft drink 1.5 litre branded PET bottle front product photo"
+        },
+        {
+          "id": 89,
+          "name": "سادہ پانی 1.5 لیٹر",
+          "image_query": "Pakistan bottled drinking water 1.5 litre branded bottle front product photo"
+        },
+        {
+          "id": 90,
+          "name": "منرل واٹر 500 ملی لیٹر",
+          "image_query": "Pakistan mineral water 500ml branded bottle front product photo"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
