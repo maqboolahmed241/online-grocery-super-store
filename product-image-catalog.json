@@ -962,6 +962,64 @@
           "image_query": "natural golden honey in small plain glass bowl with wooden dipper, no jar label no packaging"
         }
       ]
+    },
+    {
+      "batch": 18,
+      "category": "کھلے مصالحے — حصہ اول",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "note": "Only actual loose spices in plain bowls; no packets, packaging, brand marks, or labels.",
+      "products": [
+        {
+          "id": 171,
+          "name": "لال مرچ ثابت خشک",
+          "image_query": "whole dried red chili peppers loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 172,
+          "name": "لال مرچ پسی ہوئی",
+          "image_query": "fine red chili powder loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 173,
+          "name": "ہلدی ثابت",
+          "image_query": "whole dried turmeric fingers roots loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 174,
+          "name": "ہلدی پسی ہوئی",
+          "image_query": "bright yellow turmeric powder loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 175,
+          "name": "دھنیا ثابت",
+          "image_query": "whole coriander seeds loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 176,
+          "name": "دھنیا پسا ہوا",
+          "image_query": "ground coriander powder loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 177,
+          "name": "زیرہ سفید ثابت",
+          "image_query": "whole cumin seeds zeera loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 178,
+          "name": "زیرہ کالا",
+          "image_query": "black cumin seeds shahi zeera loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 179,
+          "name": "زیرہ پسا ہوا",
+          "image_query": "ground cumin powder loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 180,
+          "name": "کالی مرچ ثابت",
+          "image_query": "whole black peppercorns loose in plain white ceramic bowl, no packaging"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
