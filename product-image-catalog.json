@@ -280,6 +280,62 @@
           "image_query": "whole nutmeg and mace spice in a small white bowl product photography"
         }
       ]
+    },
+    {
+      "batch": 6,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 51,
+          "name": "آم کا اچار 400 گرام",
+          "image_query": "Pakistani mango pickle achar in clear glass jar product photography"
+        },
+        {
+          "id": 52,
+          "name": "مکس اچار 400 گرام",
+          "image_query": "Pakistani mixed vegetable pickle achar in glass jar product photography"
+        },
+        {
+          "id": 53,
+          "name": "ٹماٹو کیچپ 500 گرام",
+          "image_query": "tomato ketchup retail squeeze bottle front packaging product photography"
+        },
+        {
+          "id": 54,
+          "name": "چلی گارلک ساس 300 گرام",
+          "image_query": "chili garlic sauce retail bottle front packaging product photography"
+        },
+        {
+          "id": 55,
+          "name": "سویا ساس 300 ملی لیٹر",
+          "image_query": "soy sauce retail bottle front packaging product photography"
+        },
+        {
+          "id": 56,
+          "name": "سرکہ سفید 800 ملی لیٹر",
+          "image_query": "white vinegar retail bottle front packaging product photography"
+        },
+        {
+          "id": 57,
+          "name": "لیموں کا رس 250 ملی لیٹر",
+          "image_query": "bottled lemon juice retail packaging front product photography"
+        },
+        {
+          "id": 58,
+          "name": "مایونیز 500 گرام",
+          "image_query": "mayonnaise retail jar front packaging product photography"
+        },
+        {
+          "id": 59,
+          "name": "مسٹرڈ ساس 300 گرام",
+          "image_query": "mustard sauce retail squeeze bottle front packaging product photography"
+        },
+        {
+          "id": 60,
+          "name": "چلی ساس 300 گرام",
+          "image_query": "red chili sauce retail bottle front packaging product photography"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
