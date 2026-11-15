@@ -116,12 +116,21 @@ var productPhotoMap={
  "8":"https://images.pexels.com/photos/7599057/pexels-photo-7599057.jpeg?auto=compress&dpr=1&h=750&w=1260",
  "9":"https://bf1af2.akinoncloudcdn.com/products/2024/10/16/172064/d1d50fcc-49b8-4b2e-a924-cc4af387a6c7.jpg",
  "10":"https://www.shopaholic.pk/cdn/shop/files/1036762_rpl_1.jpg?v=1744248039",
+ "11":"https://kemfree.com/public/ProductImg/172189661411Bengalgramroasted.jpg",
+ "16":"https://shop.tulsidas.com/cdn/shop/products/extra-long-grain-xxxl-basmati-rice-616926.jpg?v=1685168661&width=1200",
+ "17":"https://veehafoods.com/cdn/shop/files/Brokenrice_1.jpg?v=1731351216",
+ "18":"https://www.mystore.in/s/62ea2c599d1398fa16dbae0a/g/6852b482ad3a7e7eb219046b/masoor-daal-01-800x800.jpg",
+ "19":"https://hariomatta.com/cdn/shop/files/mung_dhuli.png?v=1749712933&width=1946",
+ "21":"https://myharvestfarms.com/cdn/shop/files/WhiteSundal-KabuliChanna_Chickpea.png?v=1759903660",
+ "22":"https://www.gettyimages.com/",
+ "25":"https://i5.walmartimages.com/seo/NY-SPICE-SHOP-Red-Kidney-Beans-3-Pound-Rajma-Red-Kidney-Chickpeas_c566e554-f66e-45b7-9cb7-6180d8cb49cf.188d6dbcce19820ad7d9957c117f6948.jpeg",
+ "28":"https://s.alicdn.com/@sc04/kf/Hdd6588e7afa848e9926c633d058f25c8P/Factory-Wholesale-Nihewan-Sprouting-Green-Mung-Bean-Seeds-Price-for-Green-Mung-Beans.jpg",
  "214":"https://qne.com.pk/cdn/shop/products/Primary-1000x1000_390e554d-2d1a-449c-904b-863a5a4fc007.jpg?v=1664883312",
  "216":"https://cdn.mycart.pk/media/catalog/product/cache/1/thumbnail/800x/17f82f742ffe127f42dca9de82fb58b1/2/0/20190515_110642.jpg"
 };
 function productVisual(p){
  var src=productPhotoMap[String(p[0])]||p[8]||"";
- return src?'<img src="'+src+'" alt="'+nameOf(p)+'" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.parentNode.textContent=\'درست تصویر کی تصدیق باقی ہے\';this.parentNode.style.fontSize=\'12px\';this.parentNode.style.color=\'#8a5a2b\'" style="width:100%;height:100%;object-fit:contain;background:#fff;border-radius:11px;padding:5px">':'<span class="photo-pending">تصویر شامل کی جا رہی ہے</span>';
+ return src?'<img src="'+src+'" alt="'+nameOf(p)+'" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.parentNode.textContent=\'تصویر لوڈ نہیں ہوئی\';this.parentNode.style.fontSize=\'12px\';this.parentNode.style.color=\'#8a5a2b\'" style="width:100%;height:100%;object-fit:contain;background:#fff;border-radius:11px;padding:5px">':'<span class="photo-pending">تصویر دستیاب نہیں</span>';
 }
 var productPictureMap={};
 localStorage.setItem("gs-products",JSON.stringify(products));
