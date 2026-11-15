@@ -224,6 +224,62 @@
           "image_query": "whole dried cloves in a small white bowl product photography"
         }
       ]
+    },
+    {
+      "batch": 5,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 41,
+          "name": "چھوٹی الائچی 50 گرام",
+          "image_query": "green cardamom pods elaichi in a small white bowl product photography"
+        },
+        {
+          "id": 42,
+          "name": "بڑی الائچی 50 گرام",
+          "image_query": "black cardamom pods bari elaichi in a small white bowl product photography"
+        },
+        {
+          "id": 43,
+          "name": "تیز پات 25 گرام",
+          "image_query": "dried bay leaves tez patta in a small white bowl product photography"
+        },
+        {
+          "id": 44,
+          "name": "سونف 100 گرام",
+          "image_query": "fennel seeds saunf in a small white bowl product photography"
+        },
+        {
+          "id": 45,
+          "name": "اجوائن 50 گرام",
+          "image_query": "ajwain carom seeds in a small white bowl product photography"
+        },
+        {
+          "id": 46,
+          "name": "میتھی دانہ 100 گرام",
+          "image_query": "fenugreek seeds methi dana in a small white bowl product photography"
+        },
+        {
+          "id": 47,
+          "name": "رائی دانہ 100 گرام",
+          "image_query": "mustard seeds rai dana in a small white bowl product photography"
+        },
+        {
+          "id": 48,
+          "name": "کلونجی 50 گرام",
+          "image_query": "nigella seeds kalonji in a small white bowl product photography"
+        },
+        {
+          "id": 49,
+          "name": "خشک ادرک سونٹھ 50 گرام",
+          "image_query": "dried ginger powder sonth in a small white bowl product photography"
+        },
+        {
+          "id": 50,
+          "name": "جائفل جاوتری 25 گرام",
+          "image_query": "whole nutmeg and mace spice in a small white bowl product photography"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
