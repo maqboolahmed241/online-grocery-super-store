@@ -788,6 +788,64 @@
           "image_query": "uncooked split skinless desi chickpeas chana dal loose in plain white ceramic bowl, no packaging"
         }
       ]
+    },
+    {
+      "batch": 15,
+      "category": "چنے، لوبیا اور ثابت اجناس",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "note": "Show only loose grains/beans in plain bowls. No packaging, bags, labels, or brand marks.",
+      "products": [
+        {
+          "id": 141,
+          "name": "سفید چنا",
+          "image_query": "uncooked dry white kabuli chickpeas loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 142,
+          "name": "کالا چنا",
+          "image_query": "uncooked dry black desi chickpeas loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 143,
+          "name": "کالا چنا چھلکا اترا",
+          "image_query": "uncooked split skinless black chickpeas loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 144,
+          "name": "سفید لوبیا",
+          "image_query": "uncooked dry white beans loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 145,
+          "name": "لال لوبیا راجما",
+          "image_query": "uncooked dry red kidney beans rajma loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 146,
+          "name": "کالا لوبیا",
+          "image_query": "uncooked dry black beans loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 147,
+          "name": "مونگ ثابت سبز",
+          "image_query": "uncooked whole green mung beans loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 148,
+          "name": "ماش ثابت",
+          "image_query": "uncooked whole black urad mash beans loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 149,
+          "name": "خشک سفید مٹر",
+          "image_query": "uncooked dried white peas loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 150,
+          "name": "خشک پیلے مٹر",
+          "image_query": "uncooked dried yellow peas loose in plain white ceramic bowl, no packaging"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
