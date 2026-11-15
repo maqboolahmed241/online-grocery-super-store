@@ -37,18 +37,14 @@ var catalogDefaults=[[1,"🛒","آٹا 10 کلو","آٹا 10 کلو","آٹا 10 
 var savedProducts=JSON.parse(localStorage.getItem("gs-products")||"null");
 var catalogVersion=localStorage.getItem("gs-catalog-version");
 var products;
-if(savedProducts && catalogVersion==="5"){
+if(savedProducts && catalogVersion==="6"){
  products=savedProducts.slice();
 }else{
- products=catalogDefaults.map(function(base){
-  var old=savedProducts&&savedProducts.find(function(x){return String(x[0])===String(base[0]);});
-  var p=base.slice();
-  p[5]=old&&Number(old[5])>0?Number(old[5]):0;
-  p[7]=old&&old[7]!==undefined?Number(old[7]):0;
-  return p;
- });
+ // Replace the old catalogue completely; do not carry over stale names, prices, or stock.
+ products=catalogDefaults.map(function(base){return base.slice();});
+ localStorage.removeItem("gs-products");
  localStorage.setItem("gs-products",JSON.stringify(products));
- localStorage.setItem("gs-catalog-version","5");
+ localStorage.setItem("gs-catalog-version","6");
 }
 products.forEach(p=>{if(p.length<8)p[7]=0});
 var productPhotoMap={};
