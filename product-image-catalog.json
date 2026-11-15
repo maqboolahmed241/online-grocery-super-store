@@ -336,6 +336,62 @@
           "image_query": "red chili sauce retail bottle front packaging product photography"
         }
       ]
+    },
+    {
+      "batch": 7,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 61,
+          "name": "کوکنگ آئل 1 لیٹر",
+          "image_query": "Pakistan cooking oil one litre branded plastic bottle front packaging product photo"
+        },
+        {
+          "id": 62,
+          "name": "کوکنگ آئل 3 لیٹر",
+          "image_query": "Pakistan cooking oil three litre branded plastic bottle front packaging product photo"
+        },
+        {
+          "id": 63,
+          "name": "کوکنگ آئل 5 لیٹر",
+          "image_query": "Pakistan cooking oil five litre branded plastic bottle front packaging product photo"
+        },
+        {
+          "id": 64,
+          "name": "گھی 1 کلو پیک",
+          "image_query": "Pakistan banaspati ghee one kilogram branded pouch packaging front product photo"
+        },
+        {
+          "id": 65,
+          "name": "گھی 2.5 کلو ٹن",
+          "image_query": "Pakistan banaspati ghee 2.5 kilogram tin packaging front product photo"
+        },
+        {
+          "id": 66,
+          "name": "گھی 5 کلو ٹن",
+          "image_query": "Pakistan banaspati ghee five kilogram tin packaging front product photo"
+        },
+        {
+          "id": 67,
+          "name": "زیتون کا تیل 250 ملی لیٹر",
+          "image_query": "olive oil 250ml retail glass bottle front packaging product photo"
+        },
+        {
+          "id": 68,
+          "name": "زیتون کا تیل 500 ملی لیٹر",
+          "image_query": "olive oil 500ml retail glass bottle front packaging product photo"
+        },
+        {
+          "id": 69,
+          "name": "سرسوں کا تیل 500 ملی لیٹر",
+          "image_query": "mustard oil 500ml retail bottle front packaging product photo"
+        },
+        {
+          "id": 70,
+          "name": "سرسوں کا تیل 1 لیٹر",
+          "image_query": "mustard oil one litre retail bottle front packaging product photo"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
