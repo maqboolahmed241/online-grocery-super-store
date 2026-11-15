@@ -1,0 +1,152 @@
+{
+  "note": "Persistent product-to-image selection record. Image query strings are references for sourcing exact photos; they are not image files and must not be shown as deployed assets until downloaded and committed.",
+  "batches": [
+    {
+      "batch": 1,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 1,
+          "name": "آٹا 10 کلو",
+          "image_query": "wheat flour atta white flour in a ceramic bowl isolated product photography"
+        },
+        {
+          "id": 2,
+          "name": "چاول 5 کلو",
+          "image_query": "uncooked white rice grains in a ceramic bowl product photography"
+        },
+        {
+          "id": 3,
+          "name": "چینی 5 کلو",
+          "image_query": "white granulated sugar in a small ceramic bowl product photography"
+        },
+        {
+          "id": 4,
+          "name": "گھی 1 کلو",
+          "image_query": "golden cooking ghee in a small bowl product photography"
+        },
+        {
+          "id": 5,
+          "name": "دودھ 1 لیٹر",
+          "image_query": "fresh white milk in clear glass bottle and glass product photography"
+        },
+        {
+          "id": 6,
+          "name": "دہی 1 کلو",
+          "image_query": "plain white yogurt dahi in ceramic bowl product photography"
+        },
+        {
+          "id": 7,
+          "name": "لال مرچ 200 گرام",
+          "image_query": "red chili powder in small white bowl product photography"
+        },
+        {
+          "id": 8,
+          "name": "نمک 800 گرام",
+          "image_query": "white table salt in small ceramic bowl product photography"
+        },
+        {
+          "id": 9,
+          "name": "بسکٹ پیک",
+          "image_query": "assorted plain Pakistani tea biscuits arranged on plate product photography"
+        },
+        {
+          "id": 10,
+          "name": "نوڈلز پیک",
+          "image_query": "instant noodles uncooked noodle cake with plain packet product photography"
+        }
+      ]
+    },
+    {
+      "batch": 2,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 11,
+          "name": "چنے کی دال 1 کلو",
+          "image_query": "yellow split Bengal gram chana dal in white ceramic bowl isolated food photography"
+        },
+        {
+          "id": 12,
+          "name": "چائے پتی",
+          "image_query": "Pakistani packaged tea brand retail packet front view product photography; do not use loose tea bowl"
+        },
+        {
+          "id": 13,
+          "name": "بیسن 1 کلو",
+          "image_query": "besan gram flour in white ceramic bowl product photography"
+        },
+        {
+          "id": 14,
+          "name": "میدہ 1 کلو",
+          "image_query": "fine white maida flour in ceramic bowl product photography"
+        },
+        {
+          "id": 15,
+          "name": "سوجی 1 کلو",
+          "image_query": "semolina suji grains in white bowl product photography"
+        },
+        {
+          "id": 16,
+          "name": "باسمتی چاول 1 کلو",
+          "image_query": "uncooked long grain basmati rice in ceramic bowl product photography"
+        },
+        {
+          "id": 17,
+          "name": "ٹوٹا چاول 1 کلو",
+          "image_query": "broken rice tukda rice grains in bowl product photography"
+        },
+        {
+          "id": 18,
+          "name": "دال مسور 1 کلو",
+          "image_query": "red masoor split lentils in ceramic bowl product photography"
+        },
+        {
+          "id": 19,
+          "name": "دال مونگ 1 کلو",
+          "image_query": "yellow split moong dal lentils in bowl product photography"
+        },
+        {
+          "id": 20,
+          "name": "دال ماش 1 کلو",
+          "image_query": "white split urad mash dal lentils in bowl product photography"
+        }
+      ]
+    }
+  ],
+  "tea_packaging_catalog_to_add": [
+    "Tapal Danedar",
+    "Tapal Family Mixture",
+    "Tapal Tezdum",
+    "Tapal Mezban",
+    "Tapal Special",
+    "Tapal Green Tea",
+    "Tapal GulBahar",
+    "Brooke Bond Supreme",
+    "Brooke Bond Red Label",
+    "Lipton Yellow Label",
+    "Lipton Danedar",
+    "Vital Tea",
+    "Islamabad Tea",
+    "Kohinoor Tea"
+  ],
+  "tea_pack_sizes_to_verify_from_actual_product_packaging": [
+    "85g",
+    "170g",
+    "190g",
+    "215g",
+    "350g",
+    "430g",
+    "440g",
+    "475g",
+    "490g",
+    "900g",
+    "tea bags packs of 25, 30, 50, 80, 100"
+  ],
+  "source_pages": [
+    "https://tapaltea.com/",
+    "https://www.kkmart.pk/collections/tea",
+    "https://www.carrefour.pk/mafpak/en/c/FPAK1560200",
+    "https://usc.org.pk/shop/category/all-food-tea-1140"
+  ]
+}
