@@ -1136,6 +1136,64 @@
           "image_query": "dried mango powder amchur loose in plain white ceramic bowl, no packaging"
         }
       ]
+    },
+    {
+      "batch": 21,
+      "category": "نہانے کے صابن — پاکستان/سندھ مارکیٹ",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "note": "Branded bath soaps shown in their real product wrappers so customers can identify the brand. Availability and exact variants should be confirmed with local wholesalers in interior Sindh.",
+      "products": [
+        {
+          "id": 201,
+          "name": "لائف بوائے نہانے کا صابن",
+          "image_query": "Pakistan Lifebuoy bathing soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 202,
+          "name": "لکس نہانے کا صابن",
+          "image_query": "Pakistan Lux bathing soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 203,
+          "name": "کیپری نہانے کا صابن",
+          "image_query": "Pakistan Capri bathing soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 204,
+          "name": "ڈیٹول نہانے کا صابن",
+          "image_query": "Pakistan Dettol bathing soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 205,
+          "name": "سیف گارڈ نہانے کا صابن",
+          "image_query": "Pakistan Safeguard bathing soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 206,
+          "name": "ڈوو نہانے کا صابن",
+          "image_query": "Pakistan Dove beauty bathing soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 207,
+          "name": "پامولیو نہانے کا صابن",
+          "image_query": "Pakistan Palmolive bathing soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 208,
+          "name": "ٹِبٹ نہانے کا صابن",
+          "image_query": "Pakistan Tibet bathing soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 209,
+          "name": "میڈورا نہانے کا صابن",
+          "image_query": "Pakistan Medora bathing soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 210,
+          "name": "چندن صابن",
+          "image_query": "Pakistan sandalwood chandan bathing soap bar retail wrapper front product photo"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
