@@ -168,6 +168,62 @@
           "image_query": "dried yellow split peas and whole dried peas in a small white ceramic bowl product photography"
         }
       ]
+    },
+    {
+      "batch": 4,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 31,
+          "name": "لال مرچ پاؤڈر 200 گرام",
+          "image_query": "Pakistani red chili powder in a small white bowl product photography"
+        },
+        {
+          "id": 32,
+          "name": "ہلدی پاؤڈر 200 گرام",
+          "image_query": "bright yellow turmeric powder in a small white bowl product photography"
+        },
+        {
+          "id": 33,
+          "name": "دھنیا پاؤڈر 200 گرام",
+          "image_query": "ground coriander powder in a small white bowl product photography"
+        },
+        {
+          "id": 34,
+          "name": "زیرہ ثابت 100 گرام",
+          "image_query": "whole cumin seeds zeera in a small white bowl product photography"
+        },
+        {
+          "id": 35,
+          "name": "زیرہ پاؤڈر 100 گرام",
+          "image_query": "ground cumin powder in a small white bowl product photography"
+        },
+        {
+          "id": 36,
+          "name": "کالی مرچ ثابت 100 گرام",
+          "image_query": "whole black peppercorns in a small white bowl product photography"
+        },
+        {
+          "id": 37,
+          "name": "کالی مرچ پاؤڈر 100 گرام",
+          "image_query": "ground black pepper powder in a small white bowl product photography"
+        },
+        {
+          "id": 38,
+          "name": "گرم مصالحہ پاؤڈر 100 گرام",
+          "image_query": "Pakistani garam masala powder in a small white bowl product photography"
+        },
+        {
+          "id": 39,
+          "name": "دار چینی ثابت 50 گرام",
+          "image_query": "whole cinnamon sticks in a small white bowl product photography"
+        },
+        {
+          "id": 40,
+          "name": "لونگ ثابت 50 گرام",
+          "image_query": "whole dried cloves in a small white bowl product photography"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
