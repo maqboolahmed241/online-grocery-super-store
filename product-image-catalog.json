@@ -846,6 +846,64 @@
           "image_query": "uncooked dried yellow peas loose in plain white ceramic bowl, no packaging"
         }
       ]
+    },
+    {
+      "batch": 16,
+      "category": "آٹا، میدہ اور اناج",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "note": "Show only the actual loose flour or grain in plain bowls; no packaging, bags, labels, or brand marks.",
+      "products": [
+        {
+          "id": 151,
+          "name": "گندم کا چکی آٹا",
+          "image_query": "whole wheat atta flour loose in plain white ceramic bowl with small wheat grains, no packaging"
+        },
+        {
+          "id": 152,
+          "name": "فائن آٹا",
+          "image_query": "fine wheat flour maida-like fine atta loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 153,
+          "name": "میدہ",
+          "image_query": "fine white maida flour loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 154,
+          "name": "بیسن",
+          "image_query": "yellow gram flour besan loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 155,
+          "name": "سوجی",
+          "image_query": "coarse semolina suji grains loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 156,
+          "name": "گندم کا دلیہ",
+          "image_query": "cracked wheat porridge dalia grains loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 157,
+          "name": "جو کا دلیہ",
+          "image_query": "barley porridge grains barley dalia loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 158,
+          "name": "مکئی کا آٹا",
+          "image_query": "yellow maize corn flour loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 159,
+          "name": "چاول کا آٹا",
+          "image_query": "white rice flour loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 160,
+          "name": "جَو کا آٹا",
+          "image_query": "barley flour loose in plain white ceramic bowl, no packaging"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
