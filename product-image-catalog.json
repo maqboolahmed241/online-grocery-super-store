@@ -616,6 +616,62 @@
           "image_query": "foil chocolate coin candy retail packet product photo Pakistan"
         }
       ]
+    },
+    {
+      "batch": 12,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 111,
+          "name": "اسٹرابیری جام 瓶",
+          "image_query": "Pakistan strawberry jam retail glass jar front label product photo"
+        },
+        {
+          "id": 112,
+          "name": "مکس فروٹ جام 瓶",
+          "image_query": "Pakistan mixed fruit jam retail glass jar front label product photo"
+        },
+        {
+          "id": 113,
+          "name": "شہد 250 گرام",
+          "image_query": "Pakistan honey 250g retail jar front label product photo"
+        },
+        {
+          "id": 114,
+          "name": "شہد 500 گرام",
+          "image_query": "Pakistan honey 500g retail jar front label product photo"
+        },
+        {
+          "id": 115,
+          "name": "کارن فلیکس 500 گرام",
+          "image_query": "Pakistan corn flakes cereal retail box front packaging product photo"
+        },
+        {
+          "id": 116,
+          "name": "اوٹس 500 گرام",
+          "image_query": "Pakistan oats porridge rolled oats retail packet front packaging product photo"
+        },
+        {
+          "id": 117,
+          "name": "چاکلیٹ سیریل پیک",
+          "image_query": "Pakistan chocolate breakfast cereal retail box front packaging product photo"
+        },
+        {
+          "id": 118,
+          "name": "مونگ پھلی کا مکھن 340 گرام",
+          "image_query": "peanut butter 340g retail jar front label product photo Pakistan"
+        },
+        {
+          "id": 119,
+          "name": "کھجور 500 گرام",
+          "image_query": "Pakistani dates 500g retail clear pouch packaging product photo"
+        },
+        {
+          "id": 120,
+          "name": "خشک خوبانی 250 گرام",
+          "image_query": "dried apricots 250g retail pouch front product photo Pakistan"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
