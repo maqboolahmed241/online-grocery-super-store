@@ -392,6 +392,62 @@
           "image_query": "mustard oil one litre retail bottle front packaging product photo"
         }
       ]
+    },
+    {
+      "batch": 8,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 71,
+          "name": "دودھ 250 ملی لیٹر",
+          "image_query": "Pakistan branded UHT milk 250ml carton front packaging product photo"
+        },
+        {
+          "id": 72,
+          "name": "دودھ 500 ملی لیٹر",
+          "image_query": "Pakistan branded UHT milk 500ml carton front packaging product photo"
+        },
+        {
+          "id": 73,
+          "name": "دودھ 1 لیٹر",
+          "image_query": "Pakistan branded UHT milk one litre carton front packaging product photo"
+        },
+        {
+          "id": 74,
+          "name": "دہی 500 گرام",
+          "image_query": "Pakistan branded plain yogurt dahi 500g sealed tub front packaging product photo"
+        },
+        {
+          "id": 75,
+          "name": "دہی 1 کلو",
+          "image_query": "Pakistan branded plain yogurt dahi one kilogram sealed tub front packaging product photo"
+        },
+        {
+          "id": 76,
+          "name": "مکھن 200 گرام",
+          "image_query": "Pakistan branded butter 200g foil pack front packaging product photo"
+        },
+        {
+          "id": 77,
+          "name": "مکھن 500 گرام",
+          "image_query": "Pakistan branded butter 500g pack front packaging product photo"
+        },
+        {
+          "id": 78,
+          "name": "پنیر 200 گرام",
+          "image_query": "Pakistan branded cheese block 200g sealed pack front packaging product photo"
+        },
+        {
+          "id": 79,
+          "name": "چیڈر چیز سلائسز",
+          "image_query": "Pakistan branded cheddar cheese slices sealed packet front packaging product photo"
+        },
+        {
+          "id": 80,
+          "name": "ڈیری کریم 200 ملی لیٹر",
+          "image_query": "Pakistan branded dairy cream 200ml carton front packaging product photo"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
