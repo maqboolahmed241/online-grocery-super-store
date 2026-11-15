@@ -1194,6 +1194,64 @@
           "image_query": "Pakistan sandalwood chandan bathing soap bar retail wrapper front product photo"
         }
       ]
+    },
+    {
+      "batch": 22,
+      "category": "کپڑے دھونے کے صابن اور واشنگ پاؤڈر — پاکستان/سندھ مارکیٹ",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "note": "Product names cross-checked against Pakistani grocery retail listings; exact stock and pack variants should be confirmed with interior Sindh wholesalers. Use actual retail pack photos for branded detergents.",
+      "products": [
+        {
+          "id": 211,
+          "name": "صوفی اسپیشل کپڑے دھونے کا صابن",
+          "image_query": "Pakistan Sufi Special laundry detergent soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 212,
+          "name": "صوفی براؤن لانڈری صابن",
+          "image_query": "Pakistan Sufi brown laundry soap bar original retail wrapper front product photo"
+        },
+        {
+          "id": 213,
+          "name": "سرف ایکسل واشنگ پاؤڈر",
+          "image_query": "Pakistan Surf Excel detergent washing powder original retail pouch front product photo"
+        },
+        {
+          "id": 214,
+          "name": "ایریل اوریجنل واشنگ پاؤڈر",
+          "image_query": "Pakistan Ariel Original detergent washing powder original retail pouch front product photo"
+        },
+        {
+          "id": 215,
+          "name": "بونس ٹرائی اسٹار واشنگ پاؤڈر",
+          "image_query": "Pakistan Bonus Tristar detergent washing powder original retail pouch front product photo"
+        },
+        {
+          "id": 216,
+          "name": "بونس ایکٹو واشنگ پاؤڈر",
+          "image_query": "Pakistan Bonus Active detergent washing powder original retail pouch front product photo"
+        },
+        {
+          "id": 217,
+          "name": "برائٹ میکسمم پاور واشنگ پاؤڈر",
+          "image_query": "Pakistan Brite Maximum Power detergent washing powder original retail pouch front product photo"
+        },
+        {
+          "id": 218,
+          "name": "ایکسپریس پاور واشنگ پاؤڈر",
+          "image_query": "Pakistan Express Power detergent washing powder original retail pouch front product photo"
+        },
+        {
+          "id": 219,
+          "name": "سن لائٹ 2 اِن 1 واشنگ پاؤڈر",
+          "image_query": "Pakistan Sunlight 2 in 1 detergent washing powder original retail pouch front product photo"
+        },
+        {
+          "id": 220,
+          "name": "رِن واشنگ پاؤڈر",
+          "image_query": "Pakistan Rin washing powder original retail pouch front product photo"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
