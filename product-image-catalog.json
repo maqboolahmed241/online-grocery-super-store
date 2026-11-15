@@ -1020,6 +1020,64 @@
           "image_query": "whole black peppercorns loose in plain white ceramic bowl, no packaging"
         }
       ]
+    },
+    {
+      "batch": 19,
+      "category": "کھلے مصالحے — حصہ دوم",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "note": "Only actual loose spices in plain bowls or plates; no packets, packaging, brand marks, or labels.",
+      "products": [
+        {
+          "id": 181,
+          "name": "کالی مرچ پسی ہوئی",
+          "image_query": "ground black pepper powder loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 182,
+          "name": "لونگ ثابت",
+          "image_query": "whole dried cloves spice loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 183,
+          "name": "دارچینی ثابت",
+          "image_query": "whole cinnamon sticks spice loose on plain white plate, no packaging"
+        },
+        {
+          "id": 184,
+          "name": "دارچینی پسی ہوئی",
+          "image_query": "ground cinnamon powder loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 185,
+          "name": "چھوٹی الائچی سبز",
+          "image_query": "whole green cardamom pods loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 186,
+          "name": "بڑی الائچی کالی",
+          "image_query": "whole black cardamom pods loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 187,
+          "name": "سونف",
+          "image_query": "fennel seeds saunf loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 188,
+          "name": "اجوائن",
+          "image_query": "ajwain carom seeds loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 189,
+          "name": "میتھی دانہ",
+          "image_query": "fenugreek seeds methi dana loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 190,
+          "name": "رائی دانہ",
+          "image_query": "whole mustard seeds rai dana loose in plain white ceramic bowl, no packaging"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
