@@ -680,55 +680,56 @@
       "products": [
         {
           "id": 121,
-          "name": "سپر کرنل باسمتی چاول 1 کلو",
-          "image_query": "Pakistan Super Kernel basmati rice 1kg retail bag front packaging product photo"
+          "name": "سپر کرنل باسمتی چاول",
+          "image_query": "uncooked Super Kernel basmati rice grains loose in plain white bowl, isolated, no packaging, no bag"
         },
         {
           "id": 122,
-          "name": "1121 باسمتی سٹیم چاول 1 کلو",
-          "image_query": "Pakistan 1121 steamed basmati rice 1kg retail bag front packaging product photo"
+          "name": "1121 باسمتی اسٹیم چاول",
+          "image_query": "uncooked 1121 steamed basmati rice grains loose in plain white bowl, isolated, no packaging, no bag"
         },
         {
           "id": 123,
-          "name": "1121 باسمتی سیلا چاول 1 کلو",
-          "image_query": "Pakistan 1121 sela basmati rice 1kg retail bag front packaging product photo"
+          "name": "1121 باسمتی سیلا چاول",
+          "image_query": "uncooked 1121 sela basmati rice grains loose in plain white bowl, isolated, no packaging, no bag"
         },
         {
           "id": 124,
-          "name": "1121 باسمتی وائٹ چاول 1 کلو",
-          "image_query": "Pakistan 1121 white basmati rice 1kg retail bag front packaging product photo"
+          "name": "1121 باسمتی وائٹ چاول",
+          "image_query": "uncooked 1121 white basmati rice grains loose in plain white bowl, isolated, no packaging, no bag"
         },
         {
           "id": 125,
-          "name": "کائنات چاول 1 کلو",
-          "image_query": "Pakistan Kainat rice 1kg retail bag front packaging product photo"
+          "name": "کائنات چاول",
+          "image_query": "uncooked Kainat rice grains loose in plain white bowl, isolated, no packaging, no bag"
         },
         {
           "id": 126,
-          "name": "IRRI-6 چاول 1 کلو",
-          "image_query": "Pakistan IRRI 6 rice 1kg retail bag front packaging product photo"
+          "name": "IRRI-6 چاول",
+          "image_query": "uncooked IRRI 6 rice grains loose in plain white bowl, isolated, no packaging, no bag"
         },
         {
           "id": 127,
-          "name": "IRRI-9 چاول 1 کلو",
-          "image_query": "Pakistan IRRI 9 rice 1kg retail bag front packaging product photo"
+          "name": "IRRI-9 چاول",
+          "image_query": "uncooked IRRI 9 rice grains loose in plain white bowl, isolated, no packaging, no bag"
         },
         {
           "id": 128,
-          "name": "ٹوٹا باسمتی چاول 1 کلو",
-          "image_query": "Pakistan broken basmati rice tukra 1kg retail bag product photo"
+          "name": "ٹوٹا باسمتی چاول",
+          "image_query": "uncooked broken basmati rice grains loose in plain white bowl, isolated, no packaging, no bag"
         },
         {
           "id": 129,
-          "name": "براؤن رائس 1 کلو",
-          "image_query": "Pakistan brown rice 1kg retail pouch front packaging product photo"
+          "name": "براؤن رائس",
+          "image_query": "uncooked brown rice grains loose in plain white bowl, isolated, no packaging, no bag"
         },
         {
           "id": 130,
-          "name": "ابلے ہوئے سیلا چاول 1 کلو",
-          "image_query": "Pakistan parboiled sela rice 1kg retail bag front packaging product photo"
+          "name": "سیلا چاول",
+          "image_query": "uncooked parboiled sela rice grains loose in plain white bowl, isolated, no packaging, no bag"
         }
-      ]
+      ],
+      "note": "Display rice variety name with only a photo of the loose uncooked rice grains in a plain bowl. Never show retail packaging, bags, branded packets, or labels."
     }
   ],
   "tea_packaging_catalog_to_add": [
