@@ -112,6 +112,62 @@
           "image_query": "white split urad mash dal lentils in bowl product photography"
         }
       ]
+    },
+    {
+      "batch": 3,
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "products": [
+        {
+          "id": 21,
+          "name": "سفید چنا 1 کلو",
+          "image_query": "uncooked white chickpeas kabuli chana in a small white ceramic bowl product photography"
+        },
+        {
+          "id": 22,
+          "name": "کالا چنا 1 کلو",
+          "image_query": "uncooked black chickpeas kala chana in a small white ceramic bowl product photography"
+        },
+        {
+          "id": 23,
+          "name": "کالا چنا چھلکا اترا 1 کلو",
+          "image_query": "uncooked desi chickpeas split skinless chana dal in a small bowl product photography"
+        },
+        {
+          "id": 24,
+          "name": "سفید لوبیا 1 کلو",
+          "image_query": "uncooked white navy beans in a small white ceramic bowl product photography"
+        },
+        {
+          "id": 25,
+          "name": "لال لوبیا 1 کلو",
+          "image_query": "uncooked red kidney beans rajma in a small white ceramic bowl product photography"
+        },
+        {
+          "id": 26,
+          "name": "کالا لوبیا 1 کلو",
+          "image_query": "uncooked black beans in a small white ceramic bowl product photography"
+        },
+        {
+          "id": 27,
+          "name": "ماش ثابت 1 کلو",
+          "image_query": "whole black urad dal whole mash beans in a small white ceramic bowl product photography"
+        },
+        {
+          "id": 28,
+          "name": "مونگ ثابت 1 کلو",
+          "image_query": "whole green mung beans sabut moong in a small white ceramic bowl product photography"
+        },
+        {
+          "id": 29,
+          "name": "مسور ثابت 1 کلو",
+          "image_query": "whole brown lentils sabut masoor in a small white ceramic bowl product photography"
+        },
+        {
+          "id": 30,
+          "name": "مٹر خشک 1 کلو",
+          "image_query": "dried yellow split peas and whole dried peas in a small white ceramic bowl product photography"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
