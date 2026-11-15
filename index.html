@@ -47,7 +47,18 @@ if(savedProducts && catalogVersion==="6"){
  localStorage.setItem("gs-catalog-version","6");
 }
 products.forEach(p=>{if(p.length<8)p[7]=0});
-var productPhotoMap={};
+var productPhotoMap={
+ "1":"https://img.drz.lazcdn.com/static/pk/p/c0ea3ea73ecdcd7f0536191acef24e78.jpg_720x720q80.jpg",
+ "2":"https://s.alicdn.com/@sc04/kf/Sd2c8aa797e4c48158f930300c0392a011/Pakistan-Made-Wholesale-Price-Top-Best-Selling-Basmati-Rice-for-Sale-2022-New-Arrival-Basmati-Rice-with-Customized-Packing.jpg",
+ "3":"https://foodpanda.dhmedia.io/image/darsktores-pk/Sugar%2050Kg.png?height=480",
+ "4":"https://www.hydrisupermarket.com.pk/images/product_gallery/1697883436_PAK-DESI-GHEE-STANDING-POUCH-1KG.jpg",
+ "5":"https://cdn.mafrservices.com/pim-content/PAK/media/product/42533/1765390203/42533_main.jpg",
+ "6":"https://www.punjabibynature.ca/image/cache/catalog/plain_yogurt-550x550.png",
+ "7":"https://greenvalley.pk/cdn/shop/files/Red20Chilli20Powder20120Kg.webp?v=1740648780",
+ "8":"https://afzalwholesaler.com/cdn/shop/files/NationalSalt.webp?v=1740192485",
+ "9":"https://bf1af2.akinoncloudcdn.com/products/2024/10/16/172064/d1d50fcc-49b8-4b2e-a924-cc4af387a6c7.jpg",
+ "10":"https://www.shopaholic.pk/cdn/shop/files/1036762_rpl_1.jpg?v=1744248039"
+};
 function productVisual(p){
  var src=productPhotoMap[String(p[0])];
  return src?'<img src="'+src+'" alt="'+nameOf(p)+'" loading="lazy" referrerpolicy="no-referrer" style="width:100%;height:100%;object-fit:cover;border-radius:11px">':p[1];
