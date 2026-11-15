@@ -1252,6 +1252,64 @@
           "image_query": "Pakistan Rin washing powder original retail pouch front product photo"
         }
       ]
+    },
+    {
+      "batch": 23,
+      "category": "برتن دھونے کا سامان — پاکستان/سندھ مارکیٹ",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "note": "Products and pack types referenced against Pakistani grocery and retail listings, including Utility Stores, Karachi grocery stores and major online retailers. Local interior Sindh shelf availability and exact pack sizes should be verified before listing as in-stock.",
+      "products": [
+        {
+          "id": 221,
+          "name": "لیمن میکس ڈش واش بار",
+          "image_query": "Pakistan Lemon Max dishwash bar original retail wrapper front product photo"
+        },
+        {
+          "id": 222,
+          "name": "وِم لیمن اینڈ پودینہ ڈش واش بار",
+          "image_query": "Pakistan Vim lemon pudina dishwashing bar original retail wrapper front product photo"
+        },
+        {
+          "id": 223,
+          "name": "وِم لیمن اینڈ سالٹ ڈش واش بار",
+          "image_query": "Pakistan Vim lemon salt dishwashing bar original retail wrapper front product photo"
+        },
+        {
+          "id": 224,
+          "name": "لیمن میکس ڈش واش لیکوئڈ",
+          "image_query": "Pakistan Lemon Max dishwash liquid bottle original retail packaging front product photo"
+        },
+        {
+          "id": 225,
+          "name": "لیمن میکس ڈش واش لیکوئڈ ریفل",
+          "image_query": "Pakistan Lemon Max dishwash liquid refill pouch original retail packaging front product photo"
+        },
+        {
+          "id": 226,
+          "name": "وِم ڈش واش لیکوئڈ",
+          "image_query": "Pakistan Vim dishwash liquid lemon bottle original retail packaging front product photo"
+        },
+        {
+          "id": 227,
+          "name": "وِم ڈش واش پاؤڈر",
+          "image_query": "Pakistan Vim dishwashing powder lemon pouch original retail packaging front product photo"
+        },
+        {
+          "id": 228,
+          "name": "لیمن میکس ڈش واش پاؤڈر",
+          "image_query": "Pakistan Lemon Max dishwash powder pouch original retail packaging front product photo"
+        },
+        {
+          "id": 229,
+          "name": "صوفی سفون ڈش واش پاؤڈر",
+          "image_query": "Pakistan Sufi Safon dishwashing powder original retail pouch front product photo"
+        },
+        {
+          "id": 230,
+          "name": "لیمن میکس ڈش واش پیسٹ",
+          "image_query": "Pakistan Lemon Max dishwash paste green tub original retail packaging front product photo"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
