@@ -904,6 +904,64 @@
           "image_query": "barley flour loose in plain white ceramic bowl, no packaging"
         }
       ]
+    },
+    {
+      "batch": 17,
+      "category": "چینی، شکر اور گڑ",
+      "status": "previewed_in_chat_not_yet_approved_or_saved_as_image_files",
+      "note": "Loose grocery goods shown as actual product only, without retail packaging or brand labels.",
+      "products": [
+        {
+          "id": 161,
+          "name": "سفید دانے دار چینی",
+          "image_query": "white granulated sugar loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 162,
+          "name": "باریک پسی چینی",
+          "image_query": "fine powdered white sugar loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 163,
+          "name": "براؤن شوگر",
+          "image_query": "light brown sugar crystals loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 164,
+          "name": "شکر",
+          "image_query": "traditional desi shakar unrefined sugar crystals loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 165,
+          "name": "گڑ دیسی",
+          "image_query": "traditional dark brown jaggery gur pieces loose on plain plate, no packaging"
+        },
+        {
+          "id": 166,
+          "name": "گڑ کی ڈلیاں",
+          "image_query": "small natural jaggery gur chunks loose on plain white plate, no packaging"
+        },
+        {
+          "id": 167,
+          "name": "مصری",
+          "image_query": "clear white mishri rock sugar crystals loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 168,
+          "name": "گڑ پاؤڈر",
+          "image_query": "loose powdered jaggery gur powder in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 169,
+          "name": "کھانڈ",
+          "image_query": "traditional Pakistani khand unrefined sugar crystals loose in plain white ceramic bowl, no packaging"
+        },
+        {
+          "id": 170,
+          "name": "شہد دیسی کھلا",
+          "image_query": "natural golden honey in small plain glass bowl with wooden dipper, no jar label no packaging"
+        }
+      ]
     }
   ],
   "tea_packaging_catalog_to_add": [
